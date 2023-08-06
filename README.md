@@ -1,1 +1,1 @@
-ChatDev api to handle client request and to updated the data in MongoDb.
+ChatDev api to handle client requests and update the data in MongoDB.
